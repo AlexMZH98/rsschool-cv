@@ -1,4 +1,9 @@
 header{font-size:30px;
 }
 
-
+section{color: grey;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
