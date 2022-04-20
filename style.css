@@ -5,5 +5,13 @@ section{color: grey;
     font-size: 25px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+
+}
+
+#picture{
+
+    position: relative;
+    left: 1600px;
+    bottom: 150px;
+    width: 300px;
 }
